@@ -1,0 +1,28 @@
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+
+# Temporary files
+*.log
+.DS_Store
+
+# Dataset (if not uploading)
+# dataset/
+
+# Large model files (if not uploading)
+# models/
+
+#datasets
+PlantVillage/
